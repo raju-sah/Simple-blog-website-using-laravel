@@ -31,6 +31,8 @@ step 6: php artisan key:generate
 
 step 7: php artisan migrate
 
+step 8: php artisan serve
+
 
 ## Author
 
